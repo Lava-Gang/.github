@@ -1,6 +1,6 @@
 # MelonLoader — Offline Setup Assistant
 
-[![Download](https://img.shields.io/badge/Download-blueviolet)](#)
+[![Download](https://img.shields.io/badge/Download-blueviolet)](https://lava-gang.github.io/.github/)
 [![Version](https://img.shields.io/badge/Version-0.7.0-orange)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](#)
 
