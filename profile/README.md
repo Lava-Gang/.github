@@ -4,6 +4,8 @@
 [![Version](https://img.shields.io/badge/Version-0.7.0-orange)](#)
 [![Platform](https://img.shields.io/badge/Platform-Windows-blue)](#)
 
+![MelonLoader UI](https://raw.githubusercontent.com/LavaGang/MelonLoader.Installer/master/Resources/ML_Icon.png)
+
 A complete offline setup guide for safely integrating MelonLoader into Unity-based desktop applications.  
 Designed for environments without internet access, including secure deployments, testing labs, and enterprise scenarios.
 
